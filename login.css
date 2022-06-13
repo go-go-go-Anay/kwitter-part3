@@ -1,0 +1,51 @@
+body
+{
+    background-image: url("https://th.bing.com/th/id/OIP.1qSDtCQKo_ONlZdy9pwmzgHaGP?pid=ImgDet&w=1536&h=1294&rs=1");
+}
+
+#heading
+{
+    background-color: darkcyan;
+    height: 70px;
+    width: 500px;
+
+    border-radius: 25px;
+}
+
+#head_text
+{
+  padding-top: 17px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  color:darkturquoise;
+}
+
+#text
+{
+    background-color: darkcyan;
+    width: 750px;
+border-radius: 20px;
+}
+
+#userdiv
+{
+    background-color: darkcyan;
+    width: 200px;
+    border-radius: 15px;
+}
+
+#user
+{
+  color: white;
+}
+
+#username
+{
+    width: 500px;
+    height: 30px;
+    border-radius: 15px;
+}
+
+#login_btn
+{
+    border-radius: 15px;
+}
